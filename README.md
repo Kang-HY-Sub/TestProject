@@ -1,5 +1,6 @@
 # TestProject
 
 - Test
-- 1-issue1 is solved
-- Addressed issue # 2
+- issue1 is solved
+- issue2 is solved
+- issue3 is solved
